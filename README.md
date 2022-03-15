@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alejandro Rios Calera</h1>
 <h3 align="center">A passionate FullStack Developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clonalejandro&label=Profile%20views&color=0e75b6&style=flat" alt="clonalejandro" /> </p>
-
 - 🔭 I’m currently working on [Ejercito de Tierra](As Sergeant)
 
 - 👨‍💻 All of my projects are available at [https://github.com/clonalejandro](https://github.com/clonalejandro)
