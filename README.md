@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Rios Calera</h1>
 <h3 align="center">A passionate FullStack Developer from Spain</h3>
 
-- 🔭 I’m currently working on [Ejercito de Tierra](As Sergeant)
+- 🔭 I’m currently working on [Ejercito de Tierra](https://et.mde.es)
 
 - 👨‍💻 All of my projects are available at [https://github.com/clonalejandro](https://github.com/clonalejandro)
 
