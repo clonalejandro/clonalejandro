@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Rios Calera</h1>
 <h3 align="center">A passionate Engineer from Spain</h3>
 
-- 🔭 I’m currently working on [Influencity](https://influencity.com/)
+- 🔭 I’m currently working on [Fisify](https://www.fisify.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/clonalejandro](https://github.com/clonalejandro)
 
